@@ -68,7 +68,7 @@
         Console.WriteLine(resultSliced);
         resultSliced = numberOne + numberTwo;
         Console.WriteLine(resultSliced);
-        resultSliced = numberOne++;
+        resultSliced = ++numberOne;
         Console.WriteLine(resultSliced);
 
         // % : mod alır (Kalanı verir)
